@@ -35,6 +35,8 @@
 2 链接：https://www.coolapk.com/apk/bin.mt.plus
 
 
+3.vivo Two:https://www.123pan.com/s/4wh8Vv-6IKbd.html
+
 以后的链接都会在这里上架，我们就是等待我的下一期链接上架吧
 
 
