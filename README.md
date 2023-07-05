@@ -37,6 +37,15 @@
 
 3.vivo Two:https://www.123pan.com/s/4wh8Vv-6IKbd.html
 
+
+4.老手机换第三方启动器
+
+
+ADB命令：adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
+
+
+ADB驱动链接:https://www.123pan.com/s/4wh8Vv-ZRKbd.html
+
 以后的链接都会在这里上架，我们就是等待我的下一期链接上架吧
 
 
